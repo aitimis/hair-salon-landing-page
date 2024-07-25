@@ -1,6 +1,4 @@
-# hair-salon-landing-page
+# Hair Salon Website
 
-This is a nice looking home page for hair salons.
-
-The project is still in progress as only the landing page is finished at the moment.
+This project is a work-in-progress website for a hair salon, designed using pure HTML and CSS. JavaScript functionalities will be added soon...
 
